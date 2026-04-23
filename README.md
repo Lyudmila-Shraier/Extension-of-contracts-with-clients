@@ -31,3 +31,6 @@ financial_data.csv:
 Рассчитать коэффициенты пролонгации для каждого менеджера и для всего отдела в целом
 1. за каждый месяц
 2. за год
+
+# Ссылка на итоговую таблицу:
+https://docs.google.com/spreadsheets/d/1v8NDKe6gXMsv_1AZm2sowTtiKOKprBs4CCiaf-MEL4Q/edit?usp=sharing
